@@ -18,7 +18,7 @@
 - [axios](https://github.com/axios/axios)
 
 ## Platform
-- Firebase
+- [Firebase](https://firebase.google.com/)
 
 ## License
 Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Netflix-Clone/blob/master/LICENSE)
