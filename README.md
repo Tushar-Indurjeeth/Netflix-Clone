@@ -21,4 +21,4 @@
 - [Firebase](https://firebase.google.com/)
 
 ## License
-Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Netflix-Clone/blob/master/LICENSE)
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Netflix-Clone/blob/master/LICENSE).
